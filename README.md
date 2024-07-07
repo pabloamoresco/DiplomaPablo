@@ -24,7 +24,7 @@
         WHEN "inDelivery" = true THEN 1 
   ELSE 0 END AS status 
       FROM "Orders";
-Скриншот результата запроса Base_request2 sql.png (директория \/Users/Pavel/PycharmProjects/Diploma)
+Скриншот результата запроса sql task/sql taskg (/Users/Pavel/PycharmProjects/Diploma)
 
 Сдача второй части финального проекта
 Для запуска этого пакета тестов должны быть установлены:
