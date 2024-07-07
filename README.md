@@ -1,4 +1,4 @@
-﻿Запросы расположены в файле Base.sql (директория \yandex_fwork)
+﻿Запросы расположены в файле Base.sql 
 
 Задание 1 Представь: тебе нужно проверить, отображается ли созданный заказ в базе данных. Для этого: выведи список логинов курьеров с количеством их заказов в статусе «В доставке» (поле inDelivery = true).
 
@@ -9,7 +9,7 @@
       LEFT JOIN "Orders" AS o ON c.id = o."courierId" 
       WHERE o."inDelivery" = true 
       GROUP BY c.login;
-Скриншот результата запроса Base_request1 sql.png (директория \/Users/Pavel/PycharmProjects/Diploma)
+Скриншот результата запроса sql task/sql task2  ( /Users/Pavel/PycharmProjects/Diploma)
 
 Задание 2
 
