@@ -25,7 +25,7 @@
         ELSE 0 END AS status 
         FROM "Orders";
       
-Скриншот результата запроса sql task/sql taskg (/Users/Pavel/PycharmProjects/Diploma)
+Скриншот результата запроса sql task/sql task2 (/Users/Pavel/PycharmProjects/Diploma)
 
 Сдача второй части финального проекта
 Для запуска этого пакета тестов должны быть установлены:
